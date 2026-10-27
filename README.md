@@ -1,6 +1,8 @@
 # Truck Ledger – Vehicle Owner & Driver Management Platform
 
-A mobile-focused platform that connects commercial vehicle owners and drivers, helping them manage trips, vehicle expenses, budgets, notifications, and financial reports through structured digital workflows.
+A mobile-focused platform connecting commercial vehicle owners and drivers for trip management, expense tracking, vehicle-wise budgeting, and financial reporting.
+
+**Available on the Apple App Store:** [Truck Ledger – Lorry Expense](https://apps.apple.com/us/app/truck-ledger-lorry-expense/id6758997208)
 
 ## Project Overview
 
